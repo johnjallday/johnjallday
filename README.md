@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnjallday
 - 👀 I’m interested in AI Agents
-- 📫 johnj.alldayok@gmail.com
+- 📫 johnjallday@proton.me
 - ⚡ Fun fact: I write music: https://www.youtube.com/playlist?list=PLXmbGsvEq-1DqQtHyOqedD8dfUGbWLrR5
 
 <!---
